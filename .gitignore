@@ -1,0 +1,10 @@
+# pyCharm
+.idea/
+
+# Pyinstaller
+*.spec
+build/
+dist/
+
+# selenium/pickle ƒƒOƒCƒ“î•ñ
+*.pkl
